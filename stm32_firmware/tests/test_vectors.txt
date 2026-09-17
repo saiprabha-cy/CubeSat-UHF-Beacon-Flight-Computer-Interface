@@ -1,0 +1,18 @@
+[PASS] Test 1a: frame built successfully
+[PASS] Test 1b: parsed as FRAME_OK
+[PASS] Test 1c: correct frame type
+[PASS] Test 1d: correct payload length
+[PASS] Test 1e: timestamp round-trips
+[PASS] Test 1f: seq_counter round-trips
+[PASS] Test 1g: attitude_error_deg round-trips
+[PASS] Test 2: corrupted frame correctly rejected (CRC_ERROR)
+[PASS] Test 3a: parser resynced past leading garbage
+[PASS] Test 3b: correct type after resync
+[PASS] Test 4a: first half of frame reports INCOMPLETE throughout
+[PASS] Test 4b: second half completes the frame correctly
+[PASS] Test 5: oversized LENGTH correctly rejected
+[PASS] Test 6a: first (corrupted) frame reports CRC_ERROR
+[PASS] Test 6b: parser recovered, second frame parses correctly
+[PASS] Test 6c: correct type for the recovered frame
+
+16 / 16 tests passed.
