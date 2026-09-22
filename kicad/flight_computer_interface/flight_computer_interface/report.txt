@@ -1,0 +1,319 @@
+Info: Processing symbol 'C1:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'J3:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'U1:Package_QFP:LQFP-64_10x10mm_P0.5mm'.
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'U2:Package_TO_SOT_SMD:SOT-223-3_TabPin2'.
+Info: Processing symbol 'U3:Package_SO:SOIC-8_3.9x4.9mm_P1.27mm'.
+Info: Processing symbol 'U4:Package_TO_SOT_SMD:SOT-23-8'.
+Updated C1 symbol association from  to /39dac861-7f73-4be1-ae61-140831bbf51e.
+Updated C1 fields.
+Updated C1 sheetname to '/'.
+Updated C1 sheetfile to 'flight_computer_interface.kicad_sch'.
+Updated C1 footprint filters to 'C_*'.
+Add net /+BATT.
+Connected C1 pin 1 to /+BATT.
+Add net GND.
+Connected C1 pin 2 to GND.
+Updated C1 unit metadata.
+Added C2 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C2.
+Changed C2 value from C_0805_2012Metric to 10uF.
+Updated C2 symbol association from  to /ce122f75-8a6a-456d-805c-3e479af7b19d.
+Updated C2 fields.
+Updated C2 sheetname to '/'.
+Updated C2 sheetfile to 'flight_computer_interface.kicad_sch'.
+Updated C2 footprint filters to 'C_*'.
+Connected C2 pin 2 to GND.
+Add net +3V3.
+Connected C2 pin 1 to +3V3.
+Updated C2 unit metadata.
+Added C3 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C3.
+Changed C3 value from C_0603_1608Metric to 100nF.
+Updated C3 symbol association from  to /b25e180c-34c2-45ad-add7-86655f198be1.
+Updated C3 fields.
+Updated C3 sheetname to '/'.
+Updated C3 sheetfile to 'flight_computer_interface.kicad_sch'.
+Updated C3 footprint filters to 'C_*'.
+Connected C3 pin 2 to GND.
+Connected C3 pin 1 to +3V3.
+Updated C3 unit metadata.
+Added C4 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C4.
+Changed C4 value from C_0603_1608Metric to 100nF.
+Updated C4 symbol association from  to /3d1ed14f-57ea-4c57-a7b8-0fafedebfe73.
+Updated C4 fields.
+Updated C4 sheetname to '/'.
+Updated C4 sheetfile to 'flight_computer_interface.kicad_sch'.
+Updated C4 footprint filters to 'C_*'.
+Connected C4 pin 1 to +3V3.
+Connected C4 pin 2 to GND.
+Updated C4 unit metadata.
+Added C5 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C5.
+Changed C5 value from C_0603_1608Metric to 100nF.
+Updated C5 symbol association from  to /3f81358a-9235-43dc-8387-32095ec0df94.
+Updated C5 fields.
+Updated C5 sheetname to '/'.
+Updated C5 sheetfile to 'flight_computer_interface.kicad_sch'.
+Updated C5 footprint filters to 'C_*'.
+Connected C5 pin 1 to +3V3.
+Connected C5 pin 2 to GND.
+Updated C5 unit metadata.
+Added C6 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C6.
+Changed C6 value from C_0603_1608Metric to 100nF.
+Updated C6 symbol association from  to /591bc42b-e013-4a74-9cd0-103c3d2786d6.
+Updated C6 fields.
+Updated C6 sheetname to '/'.
+Updated C6 sheetfile to 'flight_computer_interface.kicad_sch'.
+Updated C6 footprint filters to 'C_*'.
+Connected C6 pin 1 to +3V3.
+Connected C6 pin 2 to GND.
+Updated C6 unit metadata.
+Added J1 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Changed REF** reference designator to J1.
+Changed J1 value from PinHeader_1x02_P2.54mm_Vertical to Conn_01x02.
+Updated J1 symbol association from  to /ffe3bb1b-ea3f-47f5-a007-5a38fcd9b388.
+Updated J1 fields.
+Updated J1 sheetname to '/'.
+Updated J1 sheetfile to 'flight_computer_interface.kicad_sch'.
+Updated J1 footprint filters to 'Connector*:*_1x??_*'.
+Connected J1 pin 1 to /+BATT.
+Connected J1 pin 2 to GND.
+Updated J1 unit metadata.
+Added J2 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Changed REF** reference designator to J2.
+Changed J2 value from PinHeader_1x02_P2.54mm_Vertical to UART.
+Updated J2 symbol association from  to /74ec83c8-5b40-4041-95e4-a05624fab79b.
+Updated J2 fields.
+Updated J2 sheetname to '/'.
+Updated J2 sheetfile to 'flight_computer_interface.kicad_sch'.
+Updated J2 footprint filters to 'Connector*:*_1x??_*'.
+Add net Net-(J2-Pin_2).
+Connected J2 pin 2 to Net-(J2-Pin_2).
+Add net Net-(J2-Pin_1).
+Connected J2 pin 1 to Net-(J2-Pin_1).
+Updated J2 unit metadata.
+Added J3 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Changed REF** reference designator to J3.
+Changed J3 value from PinHeader_1x02_P2.54mm_Vertical to CAN.
+Updated J3 symbol association from  to /4c0625e8-c38c-49cf-9958-18fea43a1bf5.
+Updated J3 fields.
+Updated J3 sheetname to '/'.
+Updated J3 sheetfile to 'flight_computer_interface.kicad_sch'.
+Updated J3 footprint filters to 'Connector*:*_1x??_*'.
+Add net Net-(J3-Pin_2).
+Connected J3 pin 2 to Net-(J3-Pin_2).
+Add net Net-(J3-Pin_1).
+Connected J3 pin 1 to Net-(J3-Pin_1).
+Updated J3 unit metadata.
+Added R1 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R1.
+Changed R1 value from R_0603_1608Metric to 10k.
+Updated R1 symbol association from  to /ec3154ab-9245-4594-92b3-a65fea51091e.
+Updated R1 fields.
+Updated R1 sheetname to '/'.
+Updated R1 sheetfile to 'flight_computer_interface.kicad_sch'.
+Updated R1 footprint filters to 'R_*'.
+Add net /BOOT0.
+Connected R1 pin 1 to /BOOT0.
+Connected R1 pin 2 to GND.
+Updated R1 unit metadata.
+Added R3 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R3.
+Changed R3 value from R_0603_1608Metric to 10k.
+Updated R3 symbol association from  to /a4b66e27-4f06-4449-94c9-f64f1a0dfc3f.
+Updated R3 fields.
+Updated R3 sheetname to '/'.
+Updated R3 sheetfile to 'flight_computer_interface.kicad_sch'.
+Updated R3 footprint filters to 'R_*'.
+Connected R3 pin 1 to +3V3.
+Add net Net-(U1-NRST).
+Connected R3 pin 2 to Net-(U1-NRST).
+Updated R3 unit metadata.
+Added U1 (footprint 'Package_QFP:LQFP-64_10x10mm_P0.5mm').
+Changed REF** reference designator to U1.
+Changed U1 value from LQFP-64_10x10mm_P0.5mm to STM32L433RCTx.
+Updated U1 symbol association from  to /0a4dff61-329d-4e1c-9484-f69b74352980.
+Updated U1 fields.
+Updated U1 sheetname to '/'.
+Updated U1 sheetfile to 'flight_computer_interface.kicad_sch'.
+Updated U1 footprint filters to 'LQFP*10x10mm*P0.5mm*'.
+Connected U1 pin 42 to Net-(J2-Pin_1).
+Add net unconnected-(U1-PB10-Pad29).
+Connected U1 pin 29 to unconnected-(U1-PB10-Pad29).
+Add net unconnected-(U1-PC3-Pad11).
+Connected U1 pin 11 to unconnected-(U1-PC3-Pad11).
+Add net unconnected-(U1-PA3-Pad17).
+Connected U1 pin 17 to unconnected-(U1-PA3-Pad17).
+Add net unconnected-(U1-PC14-Pad3).
+Connected U1 pin 3 to unconnected-(U1-PC14-Pad3).
+Add net unconnected-(U1-PB9-Pad62).
+Connected U1 pin 62 to unconnected-(U1-PB9-Pad62).
+Add net unconnected-(U1-PC4-Pad24).
+Connected U1 pin 24 to unconnected-(U1-PC4-Pad24).
+Add net unconnected-(U1-PB1-Pad27).
+Connected U1 pin 27 to unconnected-(U1-PB1-Pad27).
+Connected U1 pin 31 to GND.
+Add net unconnected-(U1-PD2-Pad54).
+Connected U1 pin 54 to unconnected-(U1-PD2-Pad54).
+Add net unconnected-(U1-PB12-Pad33).
+Connected U1 pin 33 to unconnected-(U1-PB12-Pad33).
+Add net unconnected-(U1-PC9-Pad40).
+Connected U1 pin 40 to unconnected-(U1-PC9-Pad40).
+Add net unconnected-(U1-PB2-Pad28).
+Connected U1 pin 28 to unconnected-(U1-PB2-Pad28).
+Add net unconnected-(U1-PC13-Pad2).
+Connected U1 pin 2 to unconnected-(U1-PC13-Pad2).
+Add net unconnected-(U1-PC10-Pad51).
+Connected U1 pin 51 to unconnected-(U1-PC10-Pad51).
+Add net unconnected-(U1-PC8-Pad39).
+Connected U1 pin 39 to unconnected-(U1-PC8-Pad39).
+Add net unconnected-(U1-PB7-Pad59).
+Connected U1 pin 59 to unconnected-(U1-PB7-Pad59).
+Add net unconnected-(U1-PA6-Pad22).
+Connected U1 pin 22 to unconnected-(U1-PA6-Pad22).
+Add net unconnected-(U1-PA13-Pad46).
+Connected U1 pin 46 to unconnected-(U1-PA13-Pad46).
+Add net unconnected-(U1-PA0-Pad14).
+Connected U1 pin 14 to unconnected-(U1-PA0-Pad14).
+Add net unconnected-(U1-PB4-Pad56).
+Connected U1 pin 56 to unconnected-(U1-PB4-Pad56).
+Add net unconnected-(U1-PB14-Pad35).
+Connected U1 pin 35 to unconnected-(U1-PB14-Pad35).
+Add net unconnected-(U1-PB3-Pad55).
+Connected U1 pin 55 to unconnected-(U1-PB3-Pad55).
+Add net unconnected-(U1-PC5-Pad25).
+Connected U1 pin 25 to unconnected-(U1-PC5-Pad25).
+Connected U1 pin 60 to /BOOT0.
+Add net unconnected-(U1-PA14-Pad49).
+Connected U1 pin 49 to unconnected-(U1-PA14-Pad49).
+Connected U1 pin 18 to GND.
+Add net unconnected-(U1-PC12-Pad53).
+Connected U1 pin 53 to unconnected-(U1-PC12-Pad53).
+Add net unconnected-(U1-PC0-Pad8).
+Connected U1 pin 8 to unconnected-(U1-PC0-Pad8).
+Add net unconnected-(U1-PB8-Pad61).
+Connected U1 pin 61 to unconnected-(U1-PB8-Pad61).
+Add net unconnected-(U1-PC1-Pad9).
+Connected U1 pin 9 to unconnected-(U1-PC1-Pad9).
+Add net unconnected-(U1-PB5-Pad57).
+Connected U1 pin 57 to unconnected-(U1-PB5-Pad57).
+Add net unconnected-(U1-PB11-Pad30).
+Connected U1 pin 30 to unconnected-(U1-PB11-Pad30).
+Add net unconnected-(U1-PB6-Pad58).
+Connected U1 pin 58 to unconnected-(U1-PB6-Pad58).
+Connected U1 pin 48 to +3V3.
+Add net unconnected-(U1-PB13-Pad34).
+Connected U1 pin 34 to unconnected-(U1-PB13-Pad34).
+Add net Net-(U1-PB0).
+Connected U1 pin 26 to Net-(U1-PB0).
+Add net unconnected-(U1-PA7-Pad23).
+Connected U1 pin 23 to unconnected-(U1-PA7-Pad23).
+Add net unconnected-(U1-PA15-Pad50).
+Connected U1 pin 50 to unconnected-(U1-PA15-Pad50).
+Add net unconnected-(U1-PH1-Pad6).
+Connected U1 pin 6 to unconnected-(U1-PH1-Pad6).
+Add net unconnected-(U1-PC11-Pad52).
+Connected U1 pin 52 to unconnected-(U1-PC11-Pad52).
+Add net unconnected-(U1-PA5-Pad21).
+Connected U1 pin 21 to unconnected-(U1-PA5-Pad21).
+Add net unconnected-(U1-PC2-Pad10).
+Connected U1 pin 10 to unconnected-(U1-PC2-Pad10).
+Add net unconnected-(U1-PA1-Pad15).
+Connected U1 pin 15 to unconnected-(U1-PA1-Pad15).
+Add net unconnected-(U1-PC15-Pad4).
+Connected U1 pin 4 to unconnected-(U1-PC15-Pad4).
+Add net unconnected-(U1-PH0-Pad5).
+Connected U1 pin 5 to unconnected-(U1-PH0-Pad5).
+Connected U1 pin 7 to Net-(U1-NRST).
+Add net unconnected-(U1-PC7-Pad38).
+Connected U1 pin 38 to unconnected-(U1-PC7-Pad38).
+Add net unconnected-(U1-PA4-Pad20).
+Connected U1 pin 20 to unconnected-(U1-PA4-Pad20).
+Add net Net-(U1-PA11).
+Connected U1 pin 44 to Net-(U1-PA11).
+Connected U1 pin 19 to +3V3.
+Connected U1 pin 47 to GND.
+Connected U1 pin 32 to +3V3.
+Add net unconnected-(U1-PA2-Pad16).
+Connected U1 pin 16 to unconnected-(U1-PA2-Pad16).
+Connected U1 pin 64 to +3V3.
+Connected U1 pin 1 to +3V3.
+Connected U1 pin 63 to GND.
+Connected U1 pin 13 to +3V3.
+Add net unconnected-(U1-PA8-Pad41).
+Connected U1 pin 41 to unconnected-(U1-PA8-Pad41).
+Add net unconnected-(U1-PB15-Pad36).
+Connected U1 pin 36 to unconnected-(U1-PB15-Pad36).
+Connected U1 pin 12 to GND.
+Add net Net-(U1-PA12).
+Connected U1 pin 45 to Net-(U1-PA12).
+Add net unconnected-(U1-PC6-Pad37).
+Connected U1 pin 37 to unconnected-(U1-PC6-Pad37).
+Connected U1 pin 43 to Net-(J2-Pin_2).
+Updated U1 unit metadata.
+Added C1 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Added U2 (footprint 'Package_TO_SOT_SMD:SOT-223-3_TabPin2').
+Changed REF** reference designator to U2.
+Changed U2 value from SOT-223-3_TabPin2 to AP1117-33.
+Updated U2 symbol association from  to /b10a00e9-d531-4427-bf64-0c3db0ad9299.
+Updated U2 fields.
+Updated U2 sheetname to '/'.
+Updated U2 sheetfile to 'flight_computer_interface.kicad_sch'.
+Updated U2 footprint filters to 'SOT?223*TabPin2*'.
+Connected U2 pin 2 to +3V3.
+Connected U2 pin 2 to +3V3.
+Connected U2 pin 3 to /+BATT.
+Connected U2 pin 1 to GND.
+Updated U2 unit metadata.
+Changed REF** reference designator to C1.
+Added U3 (footprint 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm').
+Changed REF** reference designator to U3.
+Changed U3 value from SOIC-8_3.9x4.9mm_P1.27mm to SN65HVD230.
+Updated U3 symbol association from  to /0cd9d658-437a-41ae-91ba-c5c161ae0296.
+Updated U3 fields.
+Updated U3 sheetname to '/'.
+Updated U3 sheetfile to 'flight_computer_interface.kicad_sch'.
+Updated U3 footprint filters to 'SOIC*3.9x4.9mm*P1.27mm*'.
+Connected U3 pin 8 to GND.
+Connected U3 pin 4 to Net-(U1-PA11).
+Connected U3 pin 2 to GND.
+Connected U3 pin 1 to Net-(U1-PA12).
+Connected U3 pin 7 to Net-(J3-Pin_2).
+Add net unconnected-(U3-Vref-Pad5).
+Connected U3 pin 5 to unconnected-(U3-Vref-Pad5).
+Connected U3 pin 6 to Net-(J3-Pin_1).
+Connected U3 pin 3 to +3V3.
+Updated U3 unit metadata.
+Changed C1 value from C_0805_2012Metric to 10uF.
+Added U4 (footprint 'Package_TO_SOT_SMD:SOT-23-8').
+Changed REF** reference designator to U4.
+Changed U4 value from SOT-23-8 to MAX6369.
+Updated U4 symbol association from  to /7266871c-b21a-4700-8cd4-5539b87ff52c.
+Updated U4 fields.
+Updated U4 sheetname to '/'.
+Updated U4 sheetfile to 'flight_computer_interface.kicad_sch'.
+Updated U4 footprint filters to 'SOT?23*'.
+Connected U4 pin 1 to Net-(U1-PB0).
+Connected U4 pin 8 to +3V3.
+Connected U4 pin 5 to GND.
+Connected U4 pin 6 to +3V3.
+Add net unconnected-(U4-NC-Pad3).
+Connected U4 pin 3 to unconnected-(U4-NC-Pad3).
+Connected U4 pin 7 to Net-(U1-NRST).
+Connected U4 pin 2 to GND.
+Connected U4 pin 4 to +3V3.
+Updated U4 unit metadata.
+
+
+Info: Total warnings: 0, errors: 0.

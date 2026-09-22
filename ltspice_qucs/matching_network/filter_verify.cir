@@ -1,0 +1,18 @@
+* 3rd-order Butterworth lowpass filter verification
+* fc=600MHz, pi-topology (shunt-C, series-L, shunt-C), 50 ohm system
+* Checks: (1) low insertion loss at fundamental 435MHz (passband),
+*         (2) real attenuation at 2nd harmonic 870MHz (stopband)
+
+Vs in 0 AC 1
+Rs in n1 50
+C1 n1 0 5.305p
+L2 n1 n2 26.53n
+C3 n2 0 5.305p
+RL n2 0 50
+
+.ac lin 400 100meg 1000meg
+.control
+run
+wrdata filter_response.txt v(n2)
+.endc
+.end

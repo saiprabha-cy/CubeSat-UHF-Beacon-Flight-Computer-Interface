@@ -1,0 +1,21 @@
+* FULL CASCADE: Rs(10) -> L-match -> filter -> RL(50, antenna)
+* This is the complete Board A RF front-end signal chain, verified as
+* one system rather than trusting the two stages independently compose
+* correctly.
+
+I1 0 in AC 1
+L1 in mid1 7.317n
+C2 mid1 0 14.64p
+* Filter stage cascades directly from the match network's shunt-C node
+Rmatch mid1 mid2 0.001
+C1 mid2 0 5.305p
+L2 mid2 mid3 26.53n
+C3 mid3 0 5.305p
+RL mid3 0 50
+
+.ac lin 1 435meg 435meg
+.control
+run
+print V(in)
+.endc
+.end

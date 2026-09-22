@@ -1,0 +1,22 @@
+Plotted to 'D:\cubesat-beacon-flight-computer\kicad\flight_computer_interface\flight_computer_interface\flight_computer_interface-F_Cu.gbr'.
+Plotted to 'D:\cubesat-beacon-flight-computer\kicad\flight_computer_interface\flight_computer_interface\flight_computer_interface-B_Cu.gbr'.
+Plotted to 'D:\cubesat-beacon-flight-computer\kicad\flight_computer_interface\flight_computer_interface\flight_computer_interface-F_Paste.gbr'.
+Plotted to 'D:\cubesat-beacon-flight-computer\kicad\flight_computer_interface\flight_computer_interface\flight_computer_interface-B_Paste.gbr'.
+Plotted to 'D:\cubesat-beacon-flight-computer\kicad\flight_computer_interface\flight_computer_interface\flight_computer_interface-F_Silkscreen.gbr'.
+Plotted to 'D:\cubesat-beacon-flight-computer\kicad\flight_computer_interface\flight_computer_interface\flight_computer_interface-B_Silkscreen.gbr'.
+Plotted to 'D:\cubesat-beacon-flight-computer\kicad\flight_computer_interface\flight_computer_interface\flight_computer_interface-F_Mask.gbr'.
+Plotted to 'D:\cubesat-beacon-flight-computer\kicad\flight_computer_interface\flight_computer_interface\flight_computer_interface-B_Mask.gbr'.
+Plotted to 'D:\cubesat-beacon-flight-computer\kicad\flight_computer_interface\flight_computer_interface\flight_computer_interface-Edge_Cuts.gbr'.
+Created Gerber job file 'D:\cubesat-beacon-flight-computer\kicad\flight_computer_interface\flight_computer_interface\flight_computer_interface-job.gbrjob'.
+Plotted to 'D:\cubesat-beacon-flight-computer\kicad\flight_computer_interface\flight_computer_interface\flight_computer_interface-F_Cu.gbr'.
+Plotted to 'D:\cubesat-beacon-flight-computer\kicad\flight_computer_interface\flight_computer_interface\flight_computer_interface-B_Cu.gbr'.
+Plotted to 'D:\cubesat-beacon-flight-computer\kicad\flight_computer_interface\flight_computer_interface\flight_computer_interface-F_Paste.gbr'.
+Plotted to 'D:\cubesat-beacon-flight-computer\kicad\flight_computer_interface\flight_computer_interface\flight_computer_interface-B_Paste.gbr'.
+Plotted to 'D:\cubesat-beacon-flight-computer\kicad\flight_computer_interface\flight_computer_interface\flight_computer_interface-F_Silkscreen.gbr'.
+Plotted to 'D:\cubesat-beacon-flight-computer\kicad\flight_computer_interface\flight_computer_interface\flight_computer_interface-B_Silkscreen.gbr'.
+Plotted to 'D:\cubesat-beacon-flight-computer\kicad\flight_computer_interface\flight_computer_interface\flight_computer_interface-F_Mask.gbr'.
+Plotted to 'D:\cubesat-beacon-flight-computer\kicad\flight_computer_interface\flight_computer_interface\flight_computer_interface-B_Mask.gbr'.
+Plotted to 'D:\cubesat-beacon-flight-computer\kicad\flight_computer_interface\flight_computer_interface\flight_computer_interface-Edge_Cuts.gbr'.
+Created Gerber job file 'D:\cubesat-beacon-flight-computer\kicad\flight_computer_interface\flight_computer_interface\flight_computer_interface-job.gbrjob'.
+Info: Done.
+Info: Done.

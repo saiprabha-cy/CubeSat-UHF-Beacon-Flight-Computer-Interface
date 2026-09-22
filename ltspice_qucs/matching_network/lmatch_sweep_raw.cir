@@ -1,0 +1,16 @@
+* L-match network: frequency sweep, raw complex Zin only
+* (kept deliberately minimal -- export just V(in), compute return loss
+* and bandwidth in Python afterward, rather than trust more complex
+* derived expressions inside ngspice itself)
+
+I1 0 in AC 1
+L1 in mid 7.317n
+C2 mid 0 14.64p
+RL mid 0 50
+
+.ac lin 300 300meg 600meg
+.control
+run
+wrdata lmatch_zin_raw.txt v(in)
+.endc
+.end

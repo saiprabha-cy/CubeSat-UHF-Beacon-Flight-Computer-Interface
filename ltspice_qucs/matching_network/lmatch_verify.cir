@@ -1,0 +1,18 @@
+* L-match network verification
+* Rs=10 ohm source matched to RL=50 ohm load at f=435 MHz
+* Method: inject 1A AC current at the input node, then V(in) numerically
+* equals Zin(f) directly (Z = V/I, I=1A). At the design frequency this
+* should read back very close to 10 + j0 ohm -- i.e. a pure real 10 ohm,
+* matching Rs exactly, with zero reactance (perfect match condition).
+
+I1 0 in AC 1
+L1 in mid 7.317n
+C2 mid 0 14.64p
+RL mid 0 50
+
+.ac lin 1 435meg 435meg
+.control
+run
+print V(in)
+.endc
+.end
